@@ -1,19 +1,9 @@
-# bank_app
+MODERN BANK APP UI WITH FLUTTER
 
-A new Flutter project created with FlutLab - https://flutlab.io
 
-## Getting Started
 
-A few resources to get you started if this is your first Flutter project:
+## PICTURE
 
-- https://flutter.dev/docs/get-started/codelab
-- https://flutter.dev/docs/cookbook
+![bank1](https://github.com/Juihibi/bank_app/assets/142254238/3be2b54a-f9e5-4c5c-953f-23852b9467f8)
 
-For help getting started with Flutter, view our
-https://flutter.dev/docs, which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
 
-## Getting Started: FlutLab - Flutter Online IDE
-
-- How to use FlutLab? Please, view our https://flutlab.io/docs
-- Join the discussion and conversation on https://flutlab.io/residents
